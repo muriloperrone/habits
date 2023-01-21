@@ -13,7 +13,8 @@ Habits é um projeto de estudo utilizando as tecnologias WEB abaixo. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Habits" src="
+  ./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
